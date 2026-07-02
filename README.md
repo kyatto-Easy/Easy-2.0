@@ -35,23 +35,18 @@ Python 3がインストールされている環境で、以下のコマンドを
 
 bash
 python Easy-2.0.py
-## ⚠️ ライセンスと著作権について / License and Copyright
+## License
 
-このプロジェクトは **GNU General Public License v3.0 (GPLv3)** のもとで公開されています。
+Copyright (c) 2026 [あなたの名前または組織名]
 
-- **無断転載・パクリの禁止**: 本プロジェクトのコードをコピー・改変して、自身の成果物として隠蔽・独占配布することはライセンス違反です。
-- **ソースコード公開の義務**: 本プロジェクトのコードを一部でも使用または改変して再配布する場合、**その成果物のソースコードも完全にGPLv3で公開する義務**が発生します。
-- **著作権表示の義務**: コードを利用・改変する際は、必ず原作者（minaton）の著作権表示を残す必要があります。
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-悪質な無断転載やライセンス違反を発見した場合は、GitHubへのDMCAテイクダウン申請（強制削除申し立て）を含めた法的措置を即座に講じます。
+    http://apache.org
 
----
-
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
-
-- **Copyleft**: Any derivative work or modifications of this source code **must also be open-sourced under the GPLv3**.
-- **Attribution**: You must retain the original copyright notice and give appropriate credit to the author.
-- Unauthorized copying, distribution, or plagiarism without complying with the GPLv3 terms will result in an immediate **DMCA takedown notice** to GitHub.
-
-Copyright (c) 2026 minaton
-
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
