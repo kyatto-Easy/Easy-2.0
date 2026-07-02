@@ -21,7 +21,7 @@ A lightweight, dark-mode custom language interpreter and game editor. Write simp
 
 ## 🛠️ 追加された新機能 (New Commands)
 従来のバージョンから以下の強力なコマンドが追加されました：
-*   `AI [テキスト]` / `ai [text]`: 入力された言葉（「こんにちは」や「勝てる？」など）に応じてAIが自動返答。
+*   `AI [テキスト]` / `ai [text]`: 入力された言葉（「こんにちは」や「勝てる？」など）に応じてAIが自動返答。それ以外は、適当に返答します！🙏
 *   `チャット [名前] [セリフ]` / `chat [name] [text]`: ゲームの会話イベント風のタイピング演出。
 *   `ランダム [変数名] [最小] [最大]` / `random [var] [min] [max]`: ダイスやガチャ、ランダムダメージに使える数値生成。
 *   `カウントダウン [秒数]` / `countdown [sec]`: ログ画面でのタイマー演出。
@@ -33,7 +33,7 @@ A lightweight, dark-mode custom language interpreter and game editor. Write simp
 ### 1. 起動方法 (How to Run)
 Python 3がインストールされている環境で、以下のコマンドを実行します。特別な外部ライブラリのインストールは不要です（標準のTkinterを使用）。
 
-```bash
+bash
 python Easy-2.0.py
 ## ⚠️ ライセンスと著作権について / License and Copyright
 
